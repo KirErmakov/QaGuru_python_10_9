@@ -1,4 +1,4 @@
-from .decorator_functions import *
+from utils.decorator_functions import *
 from allure_commons.types import Severity
 
 
